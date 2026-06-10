@@ -1,0 +1,1 @@
+Developed an Object-Oriented ATM simulation system in C++ that allows users to perform banking operations such as balance inquiry, cash withdrawal, deposit, fund transfer, and PIN change. Implemented secure PIN validation, transaction limits based on card types, and file handling for data persistence
